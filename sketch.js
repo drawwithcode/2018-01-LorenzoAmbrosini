@@ -138,7 +138,7 @@ function draw() {
   //Eve
 	fill(256);
 	ellipse(mouseX, mouseY+10, 60, 80);
-	fill(250, 230, 140);
+	fill(255, 243, 192);
   ellipse(mouseX, mouseY-35, 60, 55);
 	fill(256);
 	ellipse(mouseX, mouseY-40, 60, 55);
